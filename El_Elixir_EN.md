@@ -1,6 +1,6 @@
 # El Elixir
 
-![Top Banner](banner_top.png)
+![Top Banner](assets/banner_top.png)
 
 ---
 
@@ -105,4 +105,4 @@ At the time of preparation of this material the author has two additional new pa
 **Important Note**  
 This material represents the personal experience and observations of the author. It is not a medical recommendation, diagnosis or guarantee of result. Any application is undertaken at one’s own risk. In cases of serious disease, parallel supervision by qualified specialists is recommended. The author publishes the information in open access in order to provide the possibility of independent study and application to those who are seeking additional paths.
 
-![Bottom Banner](banner_bottom.png)
+![Bottom Banner](assets/banner_bottom.png)

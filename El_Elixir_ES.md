@@ -1,6 +1,6 @@
 # El Elixir
 
-![Banner superior](banner_top.png)
+![Banner superior](assets/banner_top.png)
 
 ---
 
@@ -105,4 +105,4 @@ En el momento de la preparación de este material el autor tiene dos pacientes n
 **Nota importante**  
 Este material representa la experiencia personal y las observaciones del autor. No constituye una recomendación médica, un diagnóstico ni una garantía de resultado. Cualquier aplicación se realiza bajo la propia responsabilidad. En caso de enfermedades graves se recomienda la supervisión paralela por especialistas cualificados. El autor publica la información en acceso abierto con el fin de proporcionar la posibilidad de estudio y aplicación independientes a quienes buscan caminos adicionales.
 
-![Banner inferior](banner_bottom.png)
+![Banner inferior](assets/banner_bottom.png)

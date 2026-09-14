@@ -1,8 +1,8 @@
 # El Elixir — Open Source Report
 
-Personal experience and practical observations of the author regarding the use of **El Elixir**.
+Personal experience and practical observations regarding **El Elixir**.
 
-Published in open access so that anyone seeking additional paths may study and, if they choose, apply the information independently.
+Published openly so that anyone seeking additional paths may study and, if they choose, apply the information independently.
 
 ## Language versions
 
@@ -12,11 +12,18 @@ Published in open access so that anyone seeking additional paths may study and, 
 | English  | [El_Elixir_EN.md](El_Elixir_EN.md) |
 | Español  | [El_Elixir_ES.md](El_Elixir_ES.md) |
 
-## Structure
+## Assets
 
-1. **Theory** — description, mechanism, diet & regime, indications, warnings, dosing.
-2. **Recipe** — 10 % and 3 % compositions.
-3. **Personal cases** — direct testimonies from the author’s practice (including the author’s son and people the author worked with personally). Trials continue.
+Banners are located in the `assets/` folder:
+
+- `assets/banner_top.png`
+- `assets/banner_bottom.png`
+
+## Structure of each report
+
+1. **Theory** — description, mechanism, diet & regime, indications, warnings, dosing
+2. **Recipe** — 10% and 3% compositions
+3. **Personal cases** — direct testimonies from the author’s practice (including the author’s son). Trials continue.
 
 ## Important note
 
