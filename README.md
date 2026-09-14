@@ -1,25 +1,32 @@
-# El Elixir Report
+# El Elixir — Open Source Report
 
-Multilingual structured report based on the provided materials about **El Elixir**.
+Personal experience and practical observations of the author regarding the use of **El Elixir**.
 
-## Versions
+Published in open access so that anyone seeking additional paths may study and, if they choose, apply the information independently.
+
+## Language versions
 
 | Language | File |
 |----------|------|
-| Russian  | [El_Elixir_RU.md](El_Elixir_RU.md) |
+| Русский  | [El_Elixir_RU.md](El_Elixir_RU.md) |
 | English  | [El_Elixir_EN.md](El_Elixir_EN.md) |
-| Spanish  | [El_Elixir_ES.md](El_Elixir_ES.md) |
+| Español  | [El_Elixir_ES.md](El_Elixir_ES.md) |
 
-## Structure of each report
+## Structure
 
-1. **Theory** — general description, claimed mechanism of action, diet & regime, indications, warnings, dosing.
-2. **Recipe** — 10% and 3% compositions and usage notes.
-3. **Healing cases** — anecdotal stories from the source materials (terminal cancer, HIV, etc.).
+1. **Theory** — description, mechanism, diet & regime, indications, warnings, dosing.
+2. **Recipe** — 10 % and 3 % compositions.
+3. **Personal cases** — direct testimonies from the author’s practice (including the author’s son and people the author worked with personally). Trials continue.
 
-## Important disclaimer
+## Important note
 
-All descriptions of mechanisms, indications, dosages and treatment outcomes are statements from the provided promotional text. They are **not medical recommendations**. Serious diseases require supervision by qualified medical professionals.
+This material is the personal experience and observations of the author.  
+It is **not** a medical recommendation, diagnosis, or guarantee of result.  
+Any use is undertaken at one’s own risk.  
+In cases of serious disease, parallel supervision by qualified medical professionals is recommended.
+
+The author publishes this information openly so that those who are looking for ways to help themselves may have access to it without needing anyone’s permission.
 
 ---
 
-*Generated and published via Grok.*
+*Open source. Personal responsibility.*
